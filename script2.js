@@ -30,7 +30,7 @@ else {
 }
 
 }
-// reload the game using paly again
+// reload the game using play again
 function reload(){
    location.reload();
 }
